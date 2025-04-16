@@ -1,0 +1,6 @@
+{
+    "productos": [
+        { "nombre": "Teclado", "precio": 45.99 },
+        { "nombre": "Ratón", "precio": 19.99 }
+    ]
+}
