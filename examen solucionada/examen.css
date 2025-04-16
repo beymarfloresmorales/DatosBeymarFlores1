@@ -1,0 +1,47 @@
+/* estilos.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: yellow;
+ 
+}
+
+img {
+     
+    border: 4px solid green;
+    width:250px;
+}
+
+form {
+    border: 1px solid red;
+    max-width: 400px;
+    background-color: #fff;
+}
+
+form label, form input, form textarea, form button {
+    display: block;
+    margin-left: 20px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+}
+
+ h1{
+    margin-left: 15px;
+ }
+
+a {
+    color: #1a73e8; 
+}
+
+table , tbody {
+    margin: 20px;
+    border:2px solid salmon;
+}
+
+ td {
+   
+    text-align: center;
+    border: 1px solid #333; /* Añade una línea interna en la parte inferior de cada fila */
+}
