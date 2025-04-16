@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="libro.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<libros>
+    <libro>
+        <titulo>El nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <precio>29.99</precio>
+        <año>2007</año>
+    </libro>
+    <libro>
+        <titulo>Los juegos del hambre</titulo>
+        <autor>Suzanne Collins</autor>
+        <precio>19.99</precio>
+        <año>2008</año>
+    </libro>
+    <libro>
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <precio>24.50</precio>
+        <año>2001</año>
+    </libro>
+    <libro>
+        <titulo>Fundación</titulo>
+        <autor>Isaac Asimov</autor>
+        <precio>12.99</precio>
+        <año>1951</año>
+    </libro>
+</libros>
