@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="trabajo.xslt"?>
+<catalogo>
+      <libro>
+            <titulo>Introducción a XML</titulo>
+            <autor>Juan Pérez</autor>
+            <precio>29.99</precio>
+      </libro>
+      <libro>
+            <titulo>Aprendiendo XSLT</titulo>
+            <autor>María Gómez</autor>
+            <precio>24.99</precio>
+      </libro>
+         
+</catalogo>
